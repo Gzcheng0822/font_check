@@ -22,5 +22,11 @@ A Python tool for inspecting `.ttf` font files, counting Unicode range coverage,
 ```bash
 pip install -r requirements.txt
 python gui.py
+```
 
-Or download exe from release
+## How to use
+
+1. Download `gui.exe` from [Releases](https://github.com/Zhicheng-Gao/font_check/releases/download/main).
+2. Run `gui.exe`.
+3. Select a font and language.
+4. View the results and charts.
