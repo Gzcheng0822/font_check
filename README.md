@@ -26,7 +26,7 @@ python gui.py
 
 ## How to use
 
-1. Download `gui.exe` from [Releases](https://github.com/Zhicheng-Gao/font_check/releases/download/main).
+1. Download `gui.exe` from [Releases](https://github.com/Zhicheng-Gao/font_check/releases).
 2. Run `gui.exe`.
 3. Select a font and language.
 4. View the results and charts.
